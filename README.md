@@ -2,7 +2,8 @@
 This data science-powered webpage harnesses the capabilities of Python's data science stack, including scikit-learn, pandas to build predictive models that assess your diabetes risk based on an array of health-related features.
 
 ## ABOUT:
-    The Diabetes Risk Predictor is a web application built using Streamlit and machine learning that helps users assess their risk of developing diabetes based on personal health information. It provides valuable insights to encourage users to make informed lifestyle choices for better health.
+    The Diabetes Risk Predictor is a web application built using Streamlit and machine learning that helps users assess their risk of developing diabetes based on personal health information.
+    It provides valuable insights to encourage users to make informed lifestyle choices for better health.
 
 ## Libraries Used:
 ### 1. Streamlit:
